@@ -1,0 +1,6 @@
+.class
+.project
+.idea
+build/
+bin/
+.DS_Store
